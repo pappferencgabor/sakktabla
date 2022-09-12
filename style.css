@@ -1,0 +1,17 @@
+table {
+    margin: auto;
+    border: 0.5px solid black;
+}
+
+td {
+    width: 2cm;
+    height: 2cm;
+}
+
+.white {
+    background-color: white;
+}
+
+.black{
+    background-color: black;
+}
